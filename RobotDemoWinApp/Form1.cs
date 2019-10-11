@@ -145,5 +145,8 @@ namespace RobotDemoWinApp
         {
             System.Diagnostics.Process.Start("C:\\Users\\goran93\\Documents\\Visual Studio 2017\\Projects\\RobotDemoWinApp\\RobotDemoWinApp\\Resources\\RobotDemoPdfHelp.pdf");
         }
+
+        public void Print()
+        { }
     }
 }
